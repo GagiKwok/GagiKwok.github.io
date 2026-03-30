@@ -26,8 +26,8 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
-email: xxx@example.com
+author: Gagi
+email: 1010091607@qq.com
 description: "阿鬼下毒中..."
 # subtitle: "阿鬼下毒中..."
 subtitle:
@@ -64,7 +64,7 @@ banner_srcset:
     - src: "images/banner.webp"
       media: "(min-width: 800px)"
 
-avatar: "avatar.webp"
+avatar: "ene.webp"
 
 # Control the display of the post cover
 # If not set, the banner image will be displayed by default
@@ -705,14 +705,14 @@ material_theme:
 
 internal_theme:
   light:
-    --red-0: '#ff0000'
-    --red-1: '#ff5252'
-    --red-2: '#ff7c7c'
-    --red-3: '#ffafaf'
-    --red-4: '#ffd0d0'
-    --red-5: '#ffecec'
-    --red-5-5: '#fff3f3'
-    --red-6: '#fff7f7'
+    --red-0: '#ff0099'
+    --red-1: '#ff00ff'
+    --red-2: '#ff33ff'
+    --red-3: '#ff33cc'
+    --red-4: '#ff66ff'
+    --red-5: '#ff66cc'
+    --red-5-5: '#cc00ff'
+    --red-6: '#cc00cc'
     --color-red-6-shadow: 'rgba(255, 78, 78, 0.6)'
     --color-red-3-shadow: 'rgba(255, 78, 78, 0.3)'
 
