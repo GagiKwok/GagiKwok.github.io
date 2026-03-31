@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>阿鬼笔记</title>
-    <link>http://localhost:1118/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content from 阿鬼笔记</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
@@ -15,25 +15,25 @@
     <lastBuildDate>Tue, 31 Mar 2026 11:24:12 +0800</lastBuildDate>
     
     
-    <atom:link href="http://localhost:1118/post/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
     
 
     <item>
-      <title>Mind</title>
-      <link>http://localhost:1118/post/mind/</link>
+      <title>阿鬼连段思维导图</title>
+      <link>http://localhost:1313/post/%E9%98%BF%E9%AC%BC%E8%BF%9E%E6%AE%B5%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</link>
       <pubDate>Tue, 31 Mar 2026 11:24:12 &#43;0800</pubDate>
       <author>1010091607@qq.com (Gagi)</author>
-      <guid>http://localhost:1118/post/mind/</guid>
+      <guid>http://localhost:1313/post/%E9%98%BF%E9%AC%BC%E8%BF%9E%E6%AE%B5%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</guid>
       <description>
-        <![CDATA[<h1>Mind</h1><p>作者：Gagi（1010091607@qq.com）</p>
+        <![CDATA[<h1>阿鬼连段思维导图</h1><p>作者：Gagi（1010091607@qq.com）</p>
         
           <h1 id="思维导图">
 <a class="header-anchor" href="#%e6%80%9d%e7%bb%b4%e5%af%bc%e5%9b%be"></a>
 思维导图
-</h1><p>一些技术内容&hellip;</p>
+</h1><p>按住ctrl+滚轮放大</p>
 <div>
 <iframe 
   src="https://www.zhixi.com/view/1869ac24" 
@@ -45,7 +45,7 @@
 </iframe>
 </div>
         
-        <hr><p>本文2026-03-31首发于<a href='http://localhost:1118/'>阿鬼笔记</a>，最后修改于2026-03-31</p>]]>
+        <hr><p>本文2026-03-31首发于<a href='http://localhost:1313/'>阿鬼笔记</a>，最后修改于2026-03-31</p>]]>
       </description>
       
     </item>
@@ -53,35 +53,23 @@
     
 
     <item>
-      <title>连段拆分</title>
-      <link>http://localhost:1118/post/%E8%BF%9E%E6%AE%B5%E6%8B%86%E5%88%86/</link>
+      <title>现代阿鬼确反连段</title>
+      <link>http://localhost:1313/post/%E8%BF%9E%E6%AE%B5%E6%8B%86%E5%88%86/</link>
       <pubDate>Mon, 30 Mar 2026 22:10:07 &#43;0800</pubDate>
       <author>1010091607@qq.com (Gagi)</author>
-      <guid>http://localhost:1118/post/%E8%BF%9E%E6%AE%B5%E6%8B%86%E5%88%86/</guid>
+      <guid>http://localhost:1313/post/%E8%BF%9E%E6%AE%B5%E6%8B%86%E5%88%86/</guid>
       <description>
-        <![CDATA[<h1>连段拆分</h1><p>作者：Gagi（1010091607@qq.com）</p>
+        <![CDATA[<h1>现代阿鬼确反连段</h1><p>作者：Gagi（1010091607@qq.com）</p>
         
-          <p>阿鬼连段选择拆分</p>
-<h2 id="猛毒牙中蛇鞭的地面缓倒毒爆">
-<a class="header-anchor" href="#%e7%8c%9b%e6%af%92%e7%89%99%e4%b8%ad%e8%9b%87%e9%9e%ad%e7%9a%84%e5%9c%b0%e9%9d%a2%e7%bc%93%e5%80%92%e6%af%92%e7%88%86"></a>
-猛毒牙/中蛇鞭的地面缓倒毒爆
-</h2><h3 id="板边">
-<a class="header-anchor" href="#%e6%9d%bf%e8%be%b9"></a>
-板边
-</h3><h4 id="站重脚-蛇连咬">
-<a class="header-anchor" href="#%e7%ab%99%e9%87%8d%e8%84%9a-%e8%9b%87%e8%bf%9e%e5%92%ac"></a>
-站重脚-蛇连咬
-</h4><h5 id="53f有利">
-<a class="header-anchor" href="#53f%e6%9c%89%e5%88%a9"></a>
-53f有利
-</h5><h6 id="放毒池46f7">
-<a class="header-anchor" href="#%e6%94%be%e6%af%92%e6%b1%a046f7"></a>
-放毒池46f+7
-</h6><p>####### 后走站重脚延迟压</p>
-<p>####### 后走防凹注意前跳对空</p>
-<p>####### 站重脚压起身</p>
+          <h1 id="现代阿鬼确反斩杀连段整理">
+<a class="header-anchor" href="#%e7%8e%b0%e4%bb%a3%e9%98%bf%e9%ac%bc%e7%a1%ae%e5%8f%8d%e6%96%a9%e6%9d%80%e8%bf%9e%e6%ae%b5%e6%95%b4%e7%90%86"></a>
+现代阿鬼确反斩杀连段整理
+</h1><h3 id="无毒全资源版中限定对手距离板边有半版以内最远处在正中间">
+<a class="header-anchor" href="#%e6%97%a0%e6%af%92%e5%85%a8%e8%b5%84%e6%ba%90%e7%89%88%e4%b8%ad%e9%99%90%e5%ae%9a%e5%af%b9%e6%89%8b%e8%b7%9d%e7%a6%bb%e6%9d%bf%e8%be%b9%e6%9c%89%e5%8d%8a%e7%89%88%e4%bb%a5%e5%86%85%e6%9c%80%e8%bf%9c%e5%a4%84%e5%9c%a8%e6%ad%a3%e4%b8%ad%e9%97%b4"></a>
+无毒全资源版中限定（对手距离板边有半版以内，最远处在正中间）
+</h3><p>贴脸轻蛇鞭确反起手&gt;站重脚&gt;OD蛇鞭&gt;绿冲 站重脚&gt;OD凶袭刺&gt;绿冲 站中拳&gt;绿冲取消 站重脚&gt;猛毒牙&gt;重蛇鞭&gt;CA</p>
         
-        <hr><p>本文2026-03-30首发于<a href='http://localhost:1118/'>阿鬼笔记</a>，最后修改于2026-03-30</p>]]>
+        <hr><p>本文2026-03-30首发于<a href='http://localhost:1313/'>阿鬼笔记</a>，最后修改于2026-03-30</p>]]>
       </description>
       
     </item>
@@ -89,17 +77,17 @@
     
 
     <item>
-      <title>阿鬼笔记</title>
-      <link>http://localhost:1118/post/%E9%98%BF%E9%AC%BC%E7%AC%94%E8%AE%B0/</link>
+      <title>现代阿鬼拳脚必杀</title>
+      <link>http://localhost:1313/post/%E9%98%BF%E9%AC%BC%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Mon, 30 Mar 2026 19:35:59 &#43;0800</pubDate>
       <author>1010091607@qq.com (Gagi)</author>
-      <guid>http://localhost:1118/post/%E9%98%BF%E9%AC%BC%E7%AC%94%E8%AE%B0/</guid>
+      <guid>http://localhost:1313/post/%E9%98%BF%E9%AC%BC%E7%AC%94%E8%AE%B0/</guid>
       <description>
-        <![CDATA[<h1>阿鬼笔记</h1><p>作者：Gagi（1010091607@qq.com）</p>
+        <![CDATA[<h1>现代阿鬼拳脚必杀</h1><p>作者：Gagi（1010091607@qq.com）</p>
         
-          <h1 id="现代阿鬼整理">
-<a class="header-anchor" href="#%e7%8e%b0%e4%bb%a3%e9%98%bf%e9%ac%bc%e6%95%b4%e7%90%86"></a>
-现代阿鬼整理
+          <h1 id="现代阿鬼拳脚必杀">
+<a class="header-anchor" href="#%e7%8e%b0%e4%bb%a3%e9%98%bf%e9%ac%bc%e6%8b%b3%e8%84%9a%e5%bf%85%e6%9d%80"></a>
+现代阿鬼拳脚必杀
 </h1><h2 id="现代阿鬼拳脚">
 <a class="header-anchor" href="#%e7%8e%b0%e4%bb%a3%e9%98%bf%e9%ac%bc%e6%8b%b3%e8%84%9a"></a>
 现代阿鬼拳脚
@@ -111,105 +99,8 @@
 站轻拳（轻攻击）
 </h4><p>5f发生2f持续总共13f，打肉+4打防-1，可在连点两下打出站轻拳TC，是所有拳脚里总计帧数最少的，可用于绿冲刹车。可在下轻拳和下轻脚的取消窗口使用，连段常用的必杀都可以用站轻拳TC取消</p>
         
-        <hr><p>本文2026-03-30首发于<a href='http://localhost:1118/'>阿鬼笔记</a>，最后修改于2026-03-30</p>]]>
+        <hr><p>本文2026-03-30首发于<a href='http://localhost:1313/'>阿鬼笔记</a>，最后修改于2026-03-30</p>]]>
       </description>
-      
-    </item>
-    
-    
-
-    <item>
-      <title>中文測試</title>
-      <link>http://localhost:1118/post/chinese/</link>
-      <pubDate>Thu, 09 Jun 2022 20:12:52 &#43;0800</pubDate>
-      <author>1010091607@qq.com (Gagi)</author>
-      <guid>http://localhost:1118/post/chinese/</guid>
-      <description>
-        <![CDATA[<h1>中文測試</h1><p>作者：Gagi（1010091607@qq.com）</p>
-        
-          <p>This is a Chinese test post.</p>
-<p>善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。</p>
-<p>以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？</p>
-        
-        <hr><p>本文2022-06-09首发于<a href='http://localhost:1118/'>阿鬼笔记</a>，最后修改于2022-06-09</p>]]>
-      </description>
-      
-    </item>
-    
-    
-
-    <item>
-      <title>Markdown Basic Elements</title>
-      <link>http://localhost:1118/post/main/</link>
-      <pubDate>Thu, 09 Jun 2022 20:12:52 &#43;0800</pubDate>
-      <author>1010091607@qq.com (Gagi)</author>
-      <guid>http://localhost:1118/post/main/</guid>
-      <description>
-        <![CDATA[<h1>Markdown Basic Elements</h1><p>作者：Gagi（1010091607@qq.com）</p>
-        
-          <h2 id="markdown-基本元素">
-<a class="header-anchor" href="#markdown-%e5%9f%ba%e6%9c%ac%e5%85%83%e7%b4%a0"></a>
-Markdown 基本元素
-</h2><h3 id="标题">
-<a class="header-anchor" href="#%e6%a0%87%e9%a2%98"></a>
-标题
-</h3><h1 id="h1">
-<a class="header-anchor" href="#h1"></a>
-H1
-</h1><h2 id="h2">
-<a class="header-anchor" href="#h2"></a>
-H2
-</h2><h3 id="h3">
-<a class="header-anchor" href="#h3"></a>
-H3
-</h3><h4 id="h4">
-<a class="header-anchor" href="#h4"></a>
-H4
-</h4><h5 id="h5">
-<a class="header-anchor" href="#h5"></a>
-H5
-</h5><h6 id="h6">
-<a class="header-anchor" href="#h6"></a>
-H6
-</h6><h3 id="强调">
-<a class="header-anchor" href="#%e5%bc%ba%e8%b0%83"></a>
-强调
-</h3><p>Emphasis, aka italics, with <em>asterisks</em> or <em>underscores</em>.</p>
-<p>Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p>
-<p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
-<p>Strikethrough uses two tildes. <del>Scratch this.</del></p>
-<h3 id="列表">
-<a class="header-anchor" href="#%e5%88%97%e8%a1%a8"></a>
-列表
-</h3><h4 id="definition-list-dl">
-<a class="header-anchor" href="#definition-list-dl"></a>
-Definition List (dl)
-</h4><dl><dt>Definition List Title</dt><dd>This is a definition list division.</dd></dl>
-<h4 id="ordered-list-ol">
-<a class="header-anchor" href="#ordered-list-ol"></a>
-Ordered List (ol)
-</h4><ol>
-<li>List Item 1</li>
-<li>List Item 2</li>
-<li>List Item 3</li>
-</ol>
-<h4 id="unordered-list-ul">
-<a class="header-anchor" href="#unordered-list-ul"></a>
-Unordered List (ul)
-</h4><ul>
-<li>List Item 1</li>
-<li>List Item 2</li>
-<li>List Item 3</li>
-</ul>
-<h3 id="段落">
-<a class="header-anchor" href="#%e6%ae%b5%e8%90%bd"></a>
-段落
-</h3><p>Lorem ipsum dolor sit amet, <a href="">test link</a> consectetur adipiscing elit. <strong>Strong text</strong> pellentesque ligula commodo viverra vehicula. <em>Italic text</em> at ullamcorper enim. Morbi a euismod nibh. <u>Underline text</u> non elit nisl. <del>Deleted text</del> tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.</p>
-        
-        <hr><p>本文2022-06-09首发于<a href='http://localhost:1118/'>阿鬼笔记</a>，最后修改于2022-06-09</p>]]>
-      </description>
-      
-        <category>test</category>
       
     </item>
     
