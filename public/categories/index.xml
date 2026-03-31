@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 阿鬼笔记</title>
-    <link>https://GagiKwok.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content from 阿鬼笔记</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
@@ -15,7 +15,7 @@
     <lastBuildDate></lastBuildDate>
     
     
-    <atom:link href="https://GagiKwok.github.io/categories/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     

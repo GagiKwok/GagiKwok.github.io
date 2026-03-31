@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on 阿鬼笔记</title>
-    <link>https://GagiKwok.github.io/tags/test/</link>
+    <link>http://localhost:1313/tags/test/</link>
     <description>Recent content from 阿鬼笔记</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Thu, 09 Jun 2022 20:12:52 +0800</lastBuildDate>
     
     
-    <atom:link href="https://GagiKwok.github.io/tags/test/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,10 +23,10 @@
 
     <item>
       <title>Markdown Basic Elements</title>
-      <link>https://GagiKwok.github.io/post/main/</link>
+      <link>http://localhost:1313/post/main/</link>
       <pubDate>Thu, 09 Jun 2022 20:12:52 &#43;0800</pubDate>
       <author>1010091607@qq.com (Gagi)</author>
-      <guid>https://GagiKwok.github.io/post/main/</guid>
+      <guid>http://localhost:1313/post/main/</guid>
       <description>
         <![CDATA[<h1>Markdown Basic Elements</h1><p>作者：Gagi（1010091607@qq.com）</p>
         
@@ -67,7 +67,7 @@ H6
 </h3><h4 id="definition-list-dl">
 <a class="header-anchor" href="#definition-list-dl"></a>
 Definition List (dl)
-</h4><!-- raw HTML omitted -->
+</h4><dl><dt>Definition List Title</dt><dd>This is a definition list division.</dd></dl>
 <h4 id="ordered-list-ol">
 <a class="header-anchor" href="#ordered-list-ol"></a>
 Ordered List (ol)
@@ -87,9 +87,9 @@ Unordered List (ul)
 <h3 id="段落">
 <a class="header-anchor" href="#%e6%ae%b5%e8%90%bd"></a>
 段落
-</h3><p>Lorem ipsum dolor sit amet, <a href="">test link</a> consectetur adipiscing elit. <strong>Strong text</strong> pellentesque ligula commodo viverra vehicula. <em>Italic text</em> at ullamcorper enim. Morbi a euismod nibh. <!-- raw HTML omitted -->Underline text<!-- raw HTML omitted --> non elit nisl. <del>Deleted text</del> tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.</p>
+</h3><p>Lorem ipsum dolor sit amet, <a href="">test link</a> consectetur adipiscing elit. <strong>Strong text</strong> pellentesque ligula commodo viverra vehicula. <em>Italic text</em> at ullamcorper enim. Morbi a euismod nibh. <u>Underline text</u> non elit nisl. <del>Deleted text</del> tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.</p>
         
-        <hr><p>本文2022-06-09首发于<a href='https://GagiKwok.github.io/'>阿鬼笔记</a>，最后修改于2022-06-09</p>]]>
+        <hr><p>本文2022-06-09首发于<a href='http://localhost:1313/'>阿鬼笔记</a>，最后修改于2022-06-09</p>]]>
       </description>
       
         <category>test</category>
