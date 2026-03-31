@@ -102,7 +102,7 @@ Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet, consectetuer adipi
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 ```
 
-```rust {linenos=table,hl_lines=[8,"15-17"],linenostart=199}
+```rust
 #[derive(Debug)]
 pub enum State {
     Start,
@@ -347,11 +347,11 @@ EXTRAS       ?= $(BUILDDIR)/extras
 .PHONY: main clean
 
 main:
-	@echo "Building main facility..."
-	build_main $(BUILDDIR)
+    @echo "Building main facility..."
+    build_main $(BUILDDIR)
 
 clean:
-	rm -rf $(BUILDDIR)/*
+    rm -rf $(BUILDDIR)/*
 ```
 
 ```go
@@ -415,18 +415,20 @@ counter = 1_000
 
 1. **(10 分)**  
    设三维欧式空间 $V$ 在基 $\alpha_1, \alpha_2, \alpha_3$ 下的度量矩阵为
+   
    $$
    T = \begin{pmatrix}
-   1 & 0 & 0 \\
-   0 & 2 & 0 \\
-   0 & 0 & 3
-   \end{pmatrix},
+1 & 0 & 0 \\
+0 & 2 & 0 \\
+0 & 0 & 3
+\end{pmatrix},
    $$
+   
    求 $V$ 的一组标准正交基（用 $\alpha_1, \alpha_2, \alpha_3$ 的线性组合）。
-
+   
    **解**:
    对 $(T, I)$ 作合同变换，将 $T$ 化为单位矩阵 $I$:
-
+   
    $$
     \begin{bmatrix}
     1 & 0 & 0 \\
@@ -438,8 +440,9 @@ counter = 1_000
     0 & 0 & 1
     \end{bmatrix}
     $$
-<!-- 
-$f(n) = \Theta(g(n)) \land g(n) = \Theta(h(n)) \rightarrow f(n) = \Theta(h(n))$
+   
+   <!-- 
+   $f(n) = \Theta(g(n)) \land g(n) = \Theta(h(n)) \rightarrow f(n) = \Theta(h(n))$
 
 $\omega(g(n))=\{f(n):\text{存在正常量}c\text{和}n_0\text{，使得对所有}n \geq n_0\text{，有}0\leq cg(n) < f(n)\}$
 
@@ -481,7 +484,7 @@ $$ -->
 ## 流程图
 
 ```mermaid
-  sequenceDiagram
+sequenceDiagram
   participant 客户端
   participant 代理对象
   participant 代理处理器
@@ -495,7 +498,7 @@ $$ -->
 ```
 
 ```mermaid
-  graph LR
+graph LR
   c1[Client1<br>Socket]--客户端发出连接-->ss[ServerSocket]
   c2[Client2<br>Socket]--客户端发出连接-->ss[ServerSocket]
   ss--服务器接受请求并创建新的Socket-->s1[为Client1创<br>建的Socket]
